@@ -1,11 +1,9 @@
-import './App.css';
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1>YouTube Clone Starting now</h1>
-    </div>
-  );
+    <div>App</div>
+  )
 }
 
-export default App;
+export default App
